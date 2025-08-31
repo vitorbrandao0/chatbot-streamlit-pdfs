@@ -65,13 +65,12 @@ Crie um ambiente virtual (recomendado) e instale as dependências:
 
 Configure suas chaves de API no arquivo .env:
 
-OPENAI_API_KEY=your_openai_key
-HUGGINGFACEHUB_API_TOKEN=your_huggingface_token
-
+'OPENAI_API_KEY=your_openai_key'
+'HUGGINGFACEHUB_API_TOKEN=your_huggingface_token'
 
 Rode a aplicação:
 
-streamlit run app.py
+'streamlit run app.py'
 
 💡 Exemplos de uso
 
