@@ -42,8 +42,11 @@ A aplicação utiliza Processamento de Linguagem Natural (PLN) e técnicas de RA
 
 📂 Estrutura do projeto
 ├── app.py              # Código principal da aplicação (Streamlit)
+
 ├── htmlTemplates.py    # Templates de exibição no chat
+
 ├── requirements.txt    # Dependências do projeto
+
 └── README.md           # Documentação
 
 ▶️ Como executar
