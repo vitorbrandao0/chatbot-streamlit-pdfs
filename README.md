@@ -54,13 +54,13 @@ A aplicação utiliza Processamento de Linguagem Natural (PLN) e técnicas de RA
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/conversando-pdfs.git
-cd conversando-pdfs
+'git clone https://github.com/seu-usuario/conversando-pdfs.git'
+'cd conversando-pdfs'
 
 
-Crie um ambiente virtual e instale as dependências:
+Crie um ambiente virtual (recomendado) e instale as dependências:
 
-pip install -r requirements.txt
+'pip install -r requirements.txt'
 
 
 Configure suas chaves de API no arquivo .env:
