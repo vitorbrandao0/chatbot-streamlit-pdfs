@@ -7,38 +7,37 @@ A aplicação utiliza Processamento de Linguagem Natural (PLN) e técnicas de RA
 
 🚀 Funcionalidades
 
-Upload de múltiplos PDFs.
+- Upload de múltiplos PDFs.
 
-Extração automática de texto dos documentos.
+- Extração automática de texto dos documentos.
 
-Divisão do conteúdo em chunks para melhor indexação.
+- Divisão do conteúdo em chunks para melhor indexação.
 
-Criação de embeddings semânticos com modelos da OpenAI ou Hugging Face (ex.: Qwen3-Embedding).
+- Criação de embeddings semânticos com modelos da OpenAI ou Hugging Face (ex.: Qwen3-Embedding).
 
-Armazenamento vetorial com FAISS para busca por similaridade.
+- Armazenamento vetorial com FAISS para busca por similaridade.
 
-Respostas conversacionais utilizando LLMs (ex.: ChatGPT / GPT-4o-mini).
+- Respostas conversacionais utilizando LLMs (ex.: ChatGPT / GPT-4o-mini).
 
-Histórico de conversas mantido durante a sessão no Streamlit.
+- Histórico de conversas mantido durante a sessão no Streamlit.
 
 🛠️ Tecnologias utilizadas
 
-Python
+- Python
 
-Streamlit
+- Streamlit
  (interface web)
 
-LangChain
+- LangChain
  (orquestração de LLMs e RAG)
 
-OpenAI
- e Hugging Face
+- OpenAI e Hugging Face
  (modelos de embeddings e LLMs)
 
-FAISS
+- FAISS
  (busca vetorial eficiente)
 
-PyPDF2
+- PyPDF2
  (extração de texto de PDFs)
 
 📂 Estrutura do projeto
